@@ -1,0 +1,10 @@
+flask
+flask-cors
+numpy
+pandas
+torch
+torchvision
+scikit-learn
+xgboost
+pillow
+gunicorn
